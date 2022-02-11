@@ -1,9 +1,9 @@
 ### Olá! Meu nome é Wendel Dantas 👋
 
-- 🔭 Desenvolvedor Back-End
--☕ Java/Spring Framework ...
--💻 Estudande de análise e desenvolvimento de sistemas.
--🤖 Cursando Engeharia de Controle e Automação-UFBA
+- 🔭 Desenvolvedor Back-End.    <br>
+-☕ Java/Spring Framework.    <br>
+-💻 Estudande de análise e desenvolvimento de sistemas.    <br>
+-🤖 Cursando Engeharia de Controle e Automação-UFBA .   <br>
 <div align="center">
   <a href="https://github.com/dantaswendel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dantaswendel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
